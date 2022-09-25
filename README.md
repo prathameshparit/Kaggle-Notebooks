@@ -8,7 +8,7 @@ The notebooks and the problem statements I solved on kaggle are noted below:
 
 | Dataset | Notebook |
 | ------ | ------ |
-| [Potato Disease Leaf Dataset(PLD)] [a] | [/code/paritprathamesh/potato-disease][1] |
+| [Potato Disease Leaf Dataset(PLD)][a] | [/code/paritprathamesh/potato-disease][1] |
 | [Email Spam Classification][b] | [/code/paritprathamesh/spam-or-not-spam-pp/][2] |
 | [Titanic - Machine Learning from Disaster][c] | [/code/paritprathamesh/][3] |
 | [House Prices - Advanced Regression Techniques][d] | [/code/paritprathamesh/][4] |
